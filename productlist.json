@@ -1,0 +1,62 @@
+[{
+    "name": "Iphone 13 pro max",
+    "price": 112000,
+    "featured":true,
+    "rating":4.9,
+    "company":"apple"
+
+},
+{
+    "name": "Galaxy S22 Ultra",
+    "price": 100000,
+    "featured":true,
+    "rating":4.9,
+    "company":"samsung"
+}
+,{
+    "name": "Watch 2",
+    "price": 58000,
+    "featured":true,
+    "rating":4.9,
+    "company":"apple"
+
+},{
+    "name": "galaxy Gear 3",
+    "price": 39000,
+    "featured":true,
+    "rating":4.9,
+    "company":"samsung"
+
+},{
+    "name": "Reno 2 pro",
+    "price": 39000,
+    "featured":true,
+    "rating":4.9,
+    "company":"oppo"
+
+},
+{
+    "name": "V22",
+    "price": 28000,
+    "featured":false,
+    "rating":4.9,
+    "company":"vivo"
+
+},{
+    "name": "Soundbar",
+    "price": 49000,
+    "featured":true,
+    "rating":4.9,
+    "company":"jbl"
+
+},{
+
+    "name": "airpodes",
+    "price": 15000,
+    "featured":true,
+    "rating":4.9,
+    "company":"apple"
+
+
+}
+]
