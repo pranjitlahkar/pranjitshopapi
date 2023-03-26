@@ -8,14 +8,16 @@ const productlist = require("./productlist.json")
 
 
 const start= async()=>{
+   
     try {
-     await connection(process.env.MONGODB_URI);
-     await Product.create(productlist);
-     console.log("successful")
-
-    } catch (error) {
-        console.log(error)
-    }
-
+        await connection(process.env.MONGODB_URI);
+        await Product.create(productlist);
+        console.log("successful")
+   
+       } catch (error) {
+           console.log(error)
+       }
+   
+      
 }
 start();

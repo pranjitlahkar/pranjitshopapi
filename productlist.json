@@ -1,62 +1,186 @@
-[{
-    "name": "Iphone 13 pro max",
-    "price": 112000,
-    "featured":true,
-    "rating":4.9,
-    "company":"apple"
-
-},
-{
-    "name": "Galaxy S22 Ultra",
-    "price": 100000,
-    "featured":true,
-    "rating":4.9,
-    "company":"samsung"
-}
-,{
-    "name": "Watch 2",
-    "price": 58000,
-    "featured":true,
-    "rating":4.9,
-    "company":"apple"
-
-},{
-    "name": "galaxy Gear 3",
-    "price": 39000,
-    "featured":true,
-    "rating":4.9,
-    "company":"samsung"
-
-},{
-    "name": "Reno 2 pro",
-    "price": 39000,
-    "featured":true,
-    "rating":4.9,
-    "company":"oppo"
-
-},
-{
-    "name": "V22",
-    "price": 28000,
-    "featured":false,
-    "rating":4.9,
-    "company":"vivo"
-
-},{
-    "name": "Soundbar",
-    "price": 49000,
-    "featured":true,
-    "rating":4.9,
-    "company":"jbl"
-
-},{
-
-    "name": "airpodes",
-    "price": 15000,
-    "featured":true,
-    "rating":4.9,
-    "company":"apple"
-
-
-}
+[
+    {
+        "id": "hqiherwrtdiqhdi",
+        "name": "Iphone 13 pro max",
+        "price": 112000,
+        "featured": true,
+        "rating": 4.9,
+        "img": "https://www.jiomart.com/images/product/420x420/493177798/apple-iphone-14-pro-max-128-gb-deep-purple-digital-o493177798-p593687919-0-202209091829.jpeg",
+        "company": "apple",
+        "images": [
+            {
+                "imgurl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFcez-8-gKnfMTai3tXhmtHpNb9MtYLHV3RA8ZBfSsgaAtLiT396mkIKP7wo4zZqpB7Q&usqp=CAU"
+            },
+            {
+                "imgurl2": "https://i.gadgets360cdn.com/products/large/iphone-13-pro-max-400x800-1631648541.jpg"
+            },
+            {
+                "imgurl3": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MM313?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1630710801000"
+            },
+            {
+                "imgurl4": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_GEO_09142021_inline.jpg.slideshow-large_2x.jpg"
+            }
+        ]
+    },
+    {
+        "id": "hqihdientrbqhdi",
+        "name": "Galaxy S22 Ultra",
+        "price": 100000,
+        "featured": true,
+        "rating": 4.9,
+        "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71J8tz0UeJL._SL1500_.jpg",
+        "company": "samsung",
+        "images": [
+            {
+                "imgurl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-qzT0H8k4SIx4f9VwxBZOS4xcbNZ7LoOa5jobZ1wJLm0ONtxG-FGgjJnF84rSHhpUaM&usqp=CAU"
+            },
+            {
+                "imgurl2": "https://fdn.gsmarena.com/imgroot/reviews/22/samsung-galaxy-s22-ultra/lifestyle/-1200w5/gsmarena_005.jpg"
+            },
+            {
+                "imgurl3": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61xMlQo8pRL._SX679_.jpg"
+            },
+            {
+                "imgurl4": "https://images.indianexpress.com/2022/03/Samsung_GalaxyS22Ultra_LEAD.jpg"
+            }
+        ]
+    },
+    {
+        "id": "hqihdjkdiqhdi",
+        "name": "Watch 2",
+        "price": 58000,
+        "featured": true,
+        "rating": 4.9,
+        "img": "https://rukminim1.flixcart.com/image/416/416/smartwatch/z/g/g/mj442-original-imaemqkwchbbd2gp.jpeg?q=70",
+        "company": "apple",
+        "images": [
+            {
+                "imgurl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0DeqIii7u73WAGQEqIHJWcj1YnSfPhutRVw&usqp=CAU"
+            },
+            {
+                "imgurl2": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP746/alu-spacegray-nike.jpg"
+            },
+            {
+                "imgurl3": "https://i.gadgets360cdn.com/products/wearables/large/1551968929_832_apple_watch-series-2-smartwatch.jpg?downsize=*:360"
+            },
+            {
+                "imgurl4": "https://m-cdn.phonearena.com/images/reviews/198596-image/Apple-Watch-Series-2-Review-TI.jpg"
+            }
+        ]
+    },
+    {
+        "id": "hqihd1wiqhdi",
+        "name": "galaxy Gear 3",
+        "price": 39000,
+        "featured": true,
+        "rating": 4.9,
+        "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71Yk-Mhv9DL._SX450_.jpg",
+        "company": "samsung",
+        "images": [
+            {
+                "imgurl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ut6YntXDIYHR1LIntn6aRWz43sKVRf1xwA&usqp=CAU"
+            },
+            {
+                "imgurl2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Ppkp6LZt-eHTCGBA5jRHwqhnIh7vD7aBOg&usqp=CAU"
+            },
+            {
+                "imgurl3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9OLgZta3agzIqXQ06CUdfRUvYSCNaJTEMhGZyx9qlX7bAuYaQV4QSXCdLq4Mxyqn0PI&usqp=CAU"
+            },
+            {
+                "imgurl4": "https://i.ytimg.com/vi/eTTXxMRyr24/maxresdefault.jpg"
+            }
+        ]
+    },
+    {
+        "id": "hqihavwdiqhdi",
+        "name": "Reno 2 pro",
+        "price": 39000,
+        "featured": true,
+        "rating": 4.9,
+        "img": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/u/c/3/reno2-128-u-cph1907-oppo-8-original-imafkffqzfkwvhya.jpeg?q=70",
+        "company": "oppo",
+        "images": [
+            {
+                "imgurl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4RRKKhMHoeh6kZcrlFeoxmA69kpDJNnmDA&usqp=CAU"
+            },
+            {
+                "imgurl2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4rrsvkee9KU3RX0WCE3s82PBJXKPgRJ6Nug&usqp=CAU"
+            },
+            {
+                "imgurl3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOIdvnWZ78oBidBnlu--ZLsM0meD9GFS00PZfoN2qHpONCLqBt9BHSV_DqvpTKslGeDE&usqp=CAU"
+            },
+            {
+                "imgurl4": "https://fdn2.mobgsm.com/vv/pics/oppo/oppo-reno-2f-2.jpg"
+            }
+        ]
+    },
+    {
+        "id": "hqihdewqqhdi",
+        "name": "V22",
+        "price": 28000,
+        "featured": false,
+        "rating": 4.9,
+        "img": "https://i.ytimg.com/vi/Y8EIjoS1edw/maxresdefault.jpg",
+        "company": "vivo",
+        "images": [
+            {
+                "imgurl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAmY9WNDzJ7F0vWvMWa4KvptQBhNRn451jw&usqp=CAU"
+            },
+            {
+                "imgurl2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5qfzJgyXk24Br-668Qt7Jss7TWSs9ljHnw&usqp=CAU"
+            },
+            {
+                "imgurl3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1u14hGJ-c0GrP7MzndG47PGfbux30NS--Q&usqp=CAU"
+            },
+            {
+                "imgurl4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPzazjTHZTBmetpF5gcFQFpo3XSm8Y0dHkA&usqp=CAU"
+            }
+        ]
+    },
+    {
+        "id": "hqncihdiqhdi",
+        "name": "Soundbar",
+        "price": 49000,
+        "featured": true,
+        "rating": 4.9,
+        "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/7133Wa9--iL._SL1500_.jpg",
+        "company": "jbl",
+        "images": [
+            {
+                "imgurl1": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/S/aplus-media-library-service-media/b9ecc6d7-14f7-4b3f-956b-012b986ac222.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+            },
+            {
+                "imgurl2": "https://cdn.shopify.com/s/files/1/0298/3569/0037/products/19_58639944-03af-472e-9f59-3dd2bd420d5e_617x.jpg?v=1591429746"
+            },
+            {
+                "imgurl3": "https://d2xamzlzrdbdbn.cloudfront.net/products/c818a439-ab99-4538-a0ed-652dda7fd696.jpg"
+            },
+            {
+                "imgurl4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0MXaSZ1H0AefsvT13Fe4eZsUddvvSfO98Xw&usqp=CAU"
+            }
+        ]
+    },
+    {
+        "id": "hqihdiqhdi",
+        "name": "airpodes",
+        "price": 15000,
+        "featured": true,
+        "rating": 4.9,
+        "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQD83?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1660803972361",
+        "company": "apple",
+        "images": [
+            {
+                "imgurl1": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51bLiRohS2L._SX679_.jpg"
+            },
+            {
+                "imgurl2": "https://www.apple.com/newsroom/images/product/airpods/standard/Apple-AirPods-Pro-2nd-gen-hero-220907.jpg.news_app_ed.jpg"
+            },
+            {
+                "imgurl3": "https://sathya.in/media/79026/catalog/MME73_AV1.jpg"
+            },
+            {
+                "imgurl4": "https://5.imimg.com/data5/DE/UV/MY-23727919/original-apple-airpods-1000x1000.jpg"
+            }
+        ]
+    }
 ]

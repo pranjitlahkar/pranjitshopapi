@@ -4,9 +4,12 @@ const Product = require("../models/productModel")
 const getAllProducts = async (req, res) => {
 
 
-    const { company, name, featured, sort ,select} = req.query;
+    const {id, company, name, featured, sort ,select} = req.query;
 
     const queryObject = {}
+    if(id){
+        queryObject.id=id
+    }
 
     if (company) {
         queryObject.company = { $regex: company, $options: "i" }
